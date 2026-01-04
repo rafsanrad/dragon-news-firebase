@@ -2,7 +2,7 @@ import React from 'react';
 import swimmingImg from '../../assets/swimming.png'
 import classImg from '../../assets/class.png'
 import playImg from '../../assets/playground.png'
-import bgImg from '../../assets/bg.png'
+
 
 const Qzone = () => {
     return (
@@ -12,7 +12,7 @@ const Qzone = () => {
                 <img src={swimmingImg} alt="" />
                 <img src={classImg} alt="" />
                 <img src={playImg} alt="" />
-                <img src={bgImg} alt="" />
+
             </div>
         </div>
     );
